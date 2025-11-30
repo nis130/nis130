@@ -24,16 +24,10 @@ I am currently pursuing my B.Tech degree in Computer Science (2023) from K J Som
 <br>
 <h2>Connect with me :</h2>
 <p>
-<a href="https://twitter.com/nishit130" target="blank"><img align="center" src="https://img.icons8.com/plasticine/100/000000/twitter.png" alt="mrpandya" width="60" /></a>
+<a href="https://x.com/intent/follow?screen_name=nishit130" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=hHgWf9QXX9GA&format=png&color=000000" alt="nishit130" width="60" /></a>
 <a href="https://linkedin.com/in/nishit130" target="blank"><img align="center" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="60"/></a>
 <a href="mailto:nishitlimbani130@gmail.com" target="blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="60" /></a>
 </p>
-<br>
-
-<h2> Visitor's count 👀</h2>
-
-<p><img src="https://profile-counter.glitch.me/{nis130}/count.svg" alt="nis130 :: Visitor's Count" /></p>
-
 <br>
 
 
